@@ -6,7 +6,7 @@ For example
 
 ```js
 const EE = require("eris-errors");
-const Eris = require("./index");
+const Eris = require("eris");
 const eris = new Eris("token", {restMode: true});
 eris.getRESTChannel("117454468076797959").catch(error => {
     if (error.code === EE.DISCORD_RESPONSE_UNKNOWN_CHANNEL) {

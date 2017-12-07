@@ -1,0 +1,26 @@
+{
+  "name": "eris-errors",
+  "version": "1.0.0",
+  "description": "Human readable error codes for eris",
+  "main": "errors.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macdja38/eris-errors.git"
+  },
+  "keywords": [
+    "eris",
+    "errors",
+    "human",
+    "readable",
+    "codes"
+  ],
+  "author": "macdja38",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macdja38/eris-errors/issues"
+  },
+  "homepage": "https://github.com/macdja38/eris-errors#readme"
+}
